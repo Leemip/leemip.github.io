@@ -1,8 +1,8 @@
-# Creased Privacy Policy
+# iCreased Privacy Policy
 
 _Last updated: October 27, 2026_
 
-Creased does not collect, store or share any personal information.
+iCreased does not collect, store or share any personal information.
 
 - **Fold counts** (lifetime, today and session) are stored only on your device,
   in storage shared between the app and its widget. They are never sent to us.
